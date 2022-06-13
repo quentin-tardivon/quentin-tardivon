@@ -1,7 +1,7 @@
 ### Hey! I'm Quentin!
 
-I'm a Software Engineer for [SimpliField](https://simplifield.com/). 
-I do mainly Front-End with JavaScript, TypeScript and WebComponents!
+I'm a Software Engineer at [Rayon](https://rayon.design/). 
+I do mainly Front-End with TypeScript and WebComponents!
 I'm also very interested by Rust 🦀, WASM and WebGL.
 
 You can find me:
